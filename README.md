@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kristley
 - 👀 I’m interested in making games and apps!
-- 🧑‍🎓 I’m the leader of a student organization for making video games with Unity Immerse NTNU
+- 🧑‍🎓 I’m the leader of a student organization for game development: Immerse NTNU
 - 📱 I’m currently learning how to make apps with React native using TypeScript
 - 🚮 I’m looking to collaborate on an application for tracking trashcans
 - 📫 How to reach me : Hit me up @ kriss.1999@hotmail.com
