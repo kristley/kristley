@@ -2,6 +2,5 @@
 - 👀 I’m interested in making games and apps!
 - 🧑‍🎓 I’m the leader of a student organization for making video games with Unity Immerse NTNU
 - 📱 I’m currently learning how to make apps with React native using TypeScript
-- 🎮 I’m looking to collaborate on my dream game, Papani, which is still in its early stages
 - 🚮 I’m looking to collaborate on an application for tracking trashcans
 - 📫 How to reach me : Hit me up @ kriss.1999@hotmail.com
